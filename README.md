@@ -1,3 +1,3 @@
-# forkify Project
+Check out the site:
 
-Recipe application with custom recipe uploads.
+https://forkify-app-udemy.netlify.app/
